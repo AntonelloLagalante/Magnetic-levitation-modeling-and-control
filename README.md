@@ -1,2 +1,11 @@
 # Magnetic-levitation-modeling-and-control
-Modeling and control of Inteco Maglev
+
+Project held at the Politecnico di Milano in the exam "Auotomation and Control Laboratory" held by prof. Cazzulani.
+
+The main steps of the project are:
+
+1. White box system identification of the Inteco Maglev (https://www.inteco.com.pl/products/magnetic-levitation-systems/)
+2. Noise characterization
+3. Control design (PID, Cascade, Pole-Placement, LQR)
+4. Observer design (Luenberger, Extended Kalman Filter)
+5. Results Analysis
