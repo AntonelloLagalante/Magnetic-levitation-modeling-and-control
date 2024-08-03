@@ -9,3 +9,7 @@ Main steps of the project:
 3. Control design (PID, Cascade, Pole-Placement, LQR)
 4. Observer design (Luenberger, Extended Kalman Filter)
 5. Results Analysis
+
+
+https://github.com/user-attachments/assets/8ca7db73-0217-4b2b-83fc-19cf572a66e5
+
